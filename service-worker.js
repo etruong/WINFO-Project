@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/WINFO-Project/my-app/precache-manifest.0e1b714ea42aec469b331d5b3c8b3de0.js"
+  "/WINFO-Project/precache-manifest.8eb1678effac24f2dc66a0762cc2d482.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/WINFO-Project/my-app/index.html", {
+workbox.routing.registerNavigationRoute("/WINFO-Project/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
