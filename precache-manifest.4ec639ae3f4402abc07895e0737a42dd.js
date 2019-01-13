@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/WINFO-Project/static/css/1.59cedce1.chunk.css"
   },
   {
-    "revision": "3fed52b85583a1809ec038dcceb35f78",
+    "revision": "33e8c0a4a4eb623941d716bca6fb4ea7",
     "url": "/WINFO-Project/index.html"
   }
 ];

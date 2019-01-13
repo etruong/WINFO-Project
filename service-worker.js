@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/WINFO-Project/precache-manifest.8eb1678effac24f2dc66a0762cc2d482.js"
+  "/WINFO-Project/precache-manifest.4ec639ae3f4402abc07895e0737a42dd.js"
 );
 
 workbox.clientsClaim();
